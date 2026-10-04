@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 #  TaskFlow - Task & Project Management App
 
 <div align="center">
@@ -6,18 +8,18 @@
 
   <br />
 
-  <!-- DİL SEÇİMİ / LANGUAGE SELECTOR -->
+  
   <p>
-    <strong> Dil Seçimi / Select Language:</strong><br />
-    <a href="#tr"><strong>🇹🇷 Türkçe Dokümantasyona Git</strong></a>
+    <strong>🌐 Dil Seçimi / Select Language:</strong><br />
+    <a href="#türkçe-dokümantasyon">🇹🇷 <b>Türkçe Dokümantasyona Git</b></a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#en"><strong>🇬🇧 Jump to English Documentation</strong></a>
+    <a href="#english-documentation">🇬🇧 <b>Jump to English Documentation</b></a>
   </p>
 </div>
 
 ---
 
-##  Ekran Görüntüleri / Screenshots
+## 📸 Ekran Görüntüleri / Screenshots
 
 | 01. Ekleme ve Listeleme (Create & Read) | 02. Durum Güncelleme (Update) | 03. Silme & Boş Durum (Delete) |
 | :---: | :---: | :---: |
@@ -25,8 +27,7 @@
 
 ---
 
-<a id="tr"></a>
-## 🇹🇷 Türkçe Dokümantasyon
+## Türkçe Dokümantasyon
 
 ###  Proje Hakkında
 **TaskFlow**, kullanıcıların ve çalışma ekiplerinin günlük görevlerini kolayca planlamasını, önceliklendirmesini ve takip etmesini sağlayan modern bir Tek Sayfa Görev Yönetim Uygulamasıdır (SPA). Veriler tarayıcının yerel hafızasında (`localStorage`) saklandığı için harici bir backend veya sunucu kurulumu gerektirmeden tamamen yerel ortamda bağımsız çalışır.
